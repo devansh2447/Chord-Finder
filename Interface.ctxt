@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Interface
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ getInput()
+comment3.params=toPrint
+comment3.target=void\ printArray(java.lang.String[])
+comment4.params=
+comment4.target=void\ checkIfContinue()
+numComments=5

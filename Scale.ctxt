@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Scale
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Scale\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=root\ mode
+comment1.target=Scale(java.lang.String,\ java.lang.String)
+comment2.params=steps\ reference
+comment2.target=java.lang.String[]\ interpretSteps(int[],\ java.lang.String[])
+comment3.params=reference\ check
+comment3.target=int\ getStartPosition(java.lang.String[],\ java.lang.String)
+comment4.params=toCrop\ start
+comment4.target=java.lang.String[]\ cropStringArray(java.lang.String[],\ int)
+comment5.params=toCrop\ start
+comment5.target=int[]\ cropArray(int[],\ int)
+comment6.params=mode
+comment6.target=int\ interpretMode(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String[]\ getNotesReference()
+comment8.params=
+comment8.target=int[]\ getReference()
+comment9.params=
+comment9.target=int[]\ getMinor()
+numComments=10
