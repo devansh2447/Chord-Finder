@@ -35,3 +35,5 @@ Additional notes to be given as degree number.
 # How to execute:
 
 Run the main method from the class Interface with the argument `{}`
+
+See [here](https://github.com/devansh2447/Chord-Finder/releases/tag/v1.0.0) for the latest release.
