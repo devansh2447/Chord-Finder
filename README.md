@@ -11,7 +11,7 @@ and a F minor sus2 6th would be
 Fminsus26
 ```
 
-Supported modes (notation given in brackets): 
+# Supported modes (notation given in brackets): 
 - Major (maj)
 - Dorian (dor)
 - Phrygian (phr)
@@ -21,7 +21,7 @@ Supported modes (notation given in brackets):
 - Locrian (loc)
 - Minor (nat)
 
-Supported chord types (notation given in brackets):
+# Supported chord types (notation given in brackets):
 - Root chord (don't type anything for this one)
 - Sus2/Sus4 (sus2/sus4)
 - Diminished (dim)
@@ -29,6 +29,6 @@ Supported chord types (notation given in brackets):
 
 Additional notes to be given as degree number.
 
-How to execute:
+# How to execute:
 
 Run the main method from the class Interface with the argument {}
