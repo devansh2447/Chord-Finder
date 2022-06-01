@@ -1,6 +1,9 @@
 # Chord-Finder
 Java program for finding out the notes of a chord by typing in its name.
 
+![image](https://user-images.githubusercontent.com/98523837/171392007-f570aeff-af54-44ae-a42e-6cb6d3907e92.png)
+
+
 Type in the name of the chord using the format key + mode + chord type + additional note.
 For example, a C major 7th chord would be
 ```
