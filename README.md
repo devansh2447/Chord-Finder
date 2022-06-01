@@ -28,3 +28,7 @@ Supported chord types (notation given in brackets):
 - Octave (oct)
 
 Additional notes to be given as degree number.
+
+How to execute:
+
+Run the main method from the class Interface with the argument {}
