@@ -22,7 +22,7 @@ Fminsus26
 - Minor (nat)
 
 # Supported chord types (notation given in brackets):
-- Root chord (don't type anything for this one)
+- Root chord (leave it as blank)
 - Sus2/Sus4 (sus2/sus4)
 - Diminished (dim)
 - Octave (oct)
@@ -31,4 +31,4 @@ Additional notes to be given as degree number.
 
 # How to execute:
 
-Run the main method from the class Interface with the argument {}
+Run the main method from the class Interface with the argument `{}`
